@@ -1,0 +1,26 @@
+<annotation>
+	<folder>u-</folder>
+	<filename>20180928_120205.jpg</filename>
+	<path>C:\Users\User\Downloads\u-\20180928_120205.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>448</width>
+		<height>336</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>u</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>144</xmin>
+			<ymin>62</ymin>
+			<xmax>308</xmax>
+			<ymax>306</ymax>
+		</bndbox>
+	</object>
+</annotation>

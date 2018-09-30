@@ -1,0 +1,26 @@
+<annotation>
+	<folder>ga</folder>
+	<filename>IMG_20180929_133855.jpg</filename>
+	<path>C:\Users\User\Desktop\bangla my data sets\ga\IMG_20180929_133855.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>406</width>
+		<height>519</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>ga</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>108</xmin>
+			<ymin>96</ymin>
+			<xmax>287</xmax>
+			<ymax>323</ymax>
+		</bndbox>
+	</object>
+</annotation>

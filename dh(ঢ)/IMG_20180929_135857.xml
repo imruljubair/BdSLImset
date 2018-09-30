@@ -1,0 +1,26 @@
+<annotation>
+	<folder>dh</folder>
+	<filename>IMG_20180929_135857.jpg</filename>
+	<path>C:\Users\User\Desktop\bangla my data sets\dh\IMG_20180929_135857.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>424</width>
+		<height>478</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>dh</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>174</xmin>
+			<ymin>92</ymin>
+			<xmax>250</xmax>
+			<ymax>232</ymax>
+		</bndbox>
+	</object>
+</annotation>

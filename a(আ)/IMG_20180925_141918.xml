@@ -1,0 +1,26 @@
+<annotation>
+	<folder>a--Final Cropped and Sized</folder>
+	<filename>IMG_20180925_141918.jpg</filename>
+	<path>C:\Users\User\Downloads\a--Final Cropped and Sized\IMG_20180925_141918.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>448</width>
+		<height>336</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>a</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>103</xmin>
+			<ymin>98</ymin>
+			<xmax>232</xmax>
+			<ymax>228</ymax>
+		</bndbox>
+	</object>
+</annotation>

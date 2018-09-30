@@ -1,0 +1,26 @@
+<annotation>
+	<folder>k-</folder>
+	<filename>received_309102506341057.jpeg</filename>
+	<path>C:\Users\User\Downloads\k-\received_309102506341057.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>266</width>
+		<height>448</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>k</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>43</xmin>
+			<ymin>29</ymin>
+			<xmax>261</xmax>
+			<ymax>321</ymax>
+		</bndbox>
+	</object>
+</annotation>

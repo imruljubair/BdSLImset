@@ -1,0 +1,26 @@
+<annotation>
+	<folder>a--Final Cropped and Sized</folder>
+	<filename>received_2076880109009749.jpeg</filename>
+	<path>C:\Users\User\Downloads\a--Final Cropped and Sized\received_2076880109009749.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>252</width>
+		<height>448</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>a</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>24</xmin>
+			<ymin>87</ymin>
+			<xmax>250</xmax>
+			<ymax>346</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>o ()</folder>
+	<filename>IMG_20180929_000440.jpg</filename>
+	<path>C:\Users\User\Downloads\o ()\IMG_20180929_000440.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>668</width>
+		<height>501</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>o</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>403</xmin>
+			<ymin>48</ymin>
+			<xmax>604</xmax>
+			<ymax>429</ymax>
+		</bndbox>
+	</object>
+</annotation>

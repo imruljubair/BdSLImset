@@ -1,0 +1,26 @@
+<annotation verified="yes">
+	<folder>e-</folder>
+	<filename>received_2162290433991214.jpeg</filename>
+	<path>C:\Users\User\Downloads\e-\received_2162290433991214.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>656</width>
+		<height>732</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>e</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>169</xmin>
+			<ymin>71</ymin>
+			<xmax>617</xmax>
+			<ymax>579</ymax>
+		</bndbox>
+	</object>
+</annotation>

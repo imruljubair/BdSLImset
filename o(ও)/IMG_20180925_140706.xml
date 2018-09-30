@@ -1,0 +1,26 @@
+<annotation>
+	<folder>6</folder>
+	<filename>IMG_20180925_140706.jpg</filename>
+	<path>C:\Users\bintu\Documents\4.1\THESIS\TestCodes\SignLetter(English)\Cropped\New (Cropped)\6\IMG_20180925_140706.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>331</width>
+		<height>512</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>o</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>73</xmin>
+			<ymin>199</ymin>
+			<xmax>195</xmax>
+			<ymax>315</ymax>
+		</bndbox>
+	</object>
+</annotation>

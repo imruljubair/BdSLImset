@@ -1,0 +1,26 @@
+<annotation>
+	<folder>ga-</folder>
+	<filename>received_493906714425146.jpeg</filename>
+	<path>C:\Users\User\Downloads\ga-\received_493906714425146.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>601</width>
+		<height>1268</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>ga</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>113</xmin>
+			<ymin>212</ymin>
+			<xmax>386</xmax>
+			<ymax>584</ymax>
+		</bndbox>
+	</object>
+</annotation>

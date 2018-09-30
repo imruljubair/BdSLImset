@@ -1,0 +1,26 @@
+<annotation>
+	<folder>kh-</folder>
+	<filename>IMG_20180925_154827.jpg</filename>
+	<path>C:\Users\User\Downloads\kh-\IMG_20180925_154827.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>448</width>
+		<height>336</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>kh</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>206</xmin>
+			<ymin>116</ymin>
+			<xmax>245</xmax>
+			<ymax>198</ymax>
+		</bndbox>
+	</object>
+</annotation>

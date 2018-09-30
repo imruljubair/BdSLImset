@@ -1,0 +1,26 @@
+<annotation>
+	<folder>k-</folder>
+	<filename>IMG_20180925_142137.jpg</filename>
+	<path>C:\Users\User\Downloads\k-\IMG_20180925_142137.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>448</width>
+		<height>336</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>k</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>206</xmin>
+			<ymin>90</ymin>
+			<xmax>307</xmax>
+			<ymax>240</ymax>
+		</bndbox>
+	</object>
+</annotation>

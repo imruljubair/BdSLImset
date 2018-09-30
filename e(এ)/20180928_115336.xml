@@ -1,0 +1,26 @@
+<annotation verified="yes">
+	<folder>e-</folder>
+	<filename>20180928_115336.jpg</filename>
+	<path>C:\Users\User\Downloads\e-\20180928_115336.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>448</width>
+		<height>336</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>e</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>171</xmin>
+			<ymin>73</ymin>
+			<xmax>387</xmax>
+			<ymax>318</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>dh-</folder>
+	<filename>received_739617113054907.jpeg</filename>
+	<path>C:\Users\User\Downloads\dh-\received_739617113054907.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>958</width>
+		<height>1701</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>dh</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>296</xmin>
+			<ymin>218</ymin>
+			<xmax>951</xmax>
+			<ymax>1447</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>i-</folder>
+	<filename>IMG_20180929_000251.jpg</filename>
+	<path>C:\Users\User\Downloads\i-\IMG_20180929_000251.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>632</width>
+		<height>461</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>i</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>339</xmin>
+			<ymin>40</ymin>
+			<xmax>581</xmax>
+			<ymax>403</ymax>
+		</bndbox>
+	</object>
+</annotation>

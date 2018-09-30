@@ -1,0 +1,26 @@
+<annotation>
+	<folder>a</folder>
+	<filename>IMG_20180929_164127.jpg</filename>
+	<path>C:\Users\User\Desktop\bangla my data sets\a\IMG_20180929_164127.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>387</width>
+		<height>457</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>a</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>94</xmin>
+			<ymin>111</ymin>
+			<xmax>297</xmax>
+			<ymax>267</ymax>
+		</bndbox>
+	</object>
+</annotation>

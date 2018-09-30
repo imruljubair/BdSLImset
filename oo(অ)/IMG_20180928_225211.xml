@@ -1,0 +1,26 @@
+<annotation>
+	<folder>(oo)-Final Cropped and Sized</folder>
+	<filename>IMG_20180928_225211.jpg</filename>
+	<path>C:\Users\User\Downloads\(oo)-Final Cropped and Sized\IMG_20180928_225211.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>280</width>
+		<height>448</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>oo</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>44</xmin>
+			<ymin>71</ymin>
+			<xmax>236</xmax>
+			<ymax>359</ymax>
+		</bndbox>
+	</object>
+</annotation>

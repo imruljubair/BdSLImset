@@ -1,0 +1,26 @@
+<annotation>
+	<folder>(oo)-Final Cropped and Sized</folder>
+	<filename>received_2407116895979989.jpeg</filename>
+	<path>C:\Users\User\Downloads\(oo)-Final Cropped and Sized\received_2407116895979989.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>336</width>
+		<height>371</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>oo</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>128</xmin>
+			<ymin>11</ymin>
+			<xmax>273</xmax>
+			<ymax>213</ymax>
+		</bndbox>
+	</object>
+</annotation>

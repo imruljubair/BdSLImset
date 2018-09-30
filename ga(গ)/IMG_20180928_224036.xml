@@ -1,0 +1,26 @@
+<annotation>
+	<folder>ga-</folder>
+	<filename>IMG_20180928_224036.jpg</filename>
+	<path>C:\Users\User\Downloads\ga-\IMG_20180928_224036.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>634</width>
+		<height>1124</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>ga</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>151</xmin>
+			<ymin>19</ymin>
+			<xmax>570</xmax>
+			<ymax>796</ymax>
+		</bndbox>
+	</object>
+</annotation>

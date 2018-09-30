@@ -1,0 +1,26 @@
+<annotation>
+	<folder>o ()</folder>
+	<filename>received_1987757111516778.jpeg</filename>
+	<path>C:\Users\User\Downloads\o ()\received_1987757111516778.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>664</width>
+		<height>991</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>o</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>69</xmin>
+			<ymin>155</ymin>
+			<xmax>602</xmax>
+			<ymax>626</ymax>
+		</bndbox>
+	</object>
+</annotation>

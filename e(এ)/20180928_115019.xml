@@ -1,0 +1,26 @@
+<annotation>
+	<folder>e-</folder>
+	<filename>20180928_115019.jpg</filename>
+	<path>C:\Users\User\Downloads\e-\20180928_115019.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>448</width>
+		<height>336</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>e</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>199</xmin>
+			<ymin>118</ymin>
+			<xmax>336</xmax>
+			<ymax>285</ymax>
+		</bndbox>
+	</object>
+</annotation>

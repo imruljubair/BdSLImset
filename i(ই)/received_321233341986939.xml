@@ -1,0 +1,26 @@
+<annotation>
+	<folder>i-</folder>
+	<filename>received_321233341986939.jpeg</filename>
+	<path>C:\Users\User\Downloads\i-\received_321233341986939.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>649</width>
+		<height>796</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>i</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>169</xmin>
+			<ymin>92</ymin>
+			<xmax>649</xmax>
+			<ymax>571</ymax>
+		</bndbox>
+	</object>
+</annotation>

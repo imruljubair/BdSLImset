@@ -1,0 +1,26 @@
+<annotation>
+	<folder>u-</folder>
+	<filename>received_318164848971701.jpeg</filename>
+	<path>C:\Users\User\Downloads\u-\received_318164848971701.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1094</width>
+		<height>1944</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>u</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>254</xmin>
+			<ymin>483</ymin>
+			<xmax>1031</xmax>
+			<ymax>1386</ymax>
+		</bndbox>
+	</object>
+</annotation>
