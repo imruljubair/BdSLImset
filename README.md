@@ -1,9 +1,9 @@
 # BdSLImset: Bangladeshi Sign Language Image Dataset
-The dataset contains images of different Bangladeshi sign letters. Feel free to use for projects.
-Please cite it if you use this dataset for research works.
+The dataset contains images of different Bangladeshi sign letters. It is still on prgress. Feel free to use for projects.
+Please cite it if you use this dataset for any research work.
 
 # Current Project:
-We are wroking on a project "Real Time Bangladeshi Sign Language Detection" using this dataset (2018).
+We are working on a project "Real Time Bangladeshi Sign Language Detection" using this dataset (2018).
 
 # Collaorators:
 Oishee Hoque: bintu3003@gmail.com  
