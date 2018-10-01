@@ -3,7 +3,7 @@ The dataset contains images of different Bangladeshi sign letters. Feel free to 
 Please cite it if you want to use this dataset.
 
 # Current Project:
-We are wroking on a project "Real Time Bangladeshi Sign Language Detection" using this dataset.
+We are wroking on a project "Real Time Bangladeshi Sign Language Detection" using this dataset (2018).
 
 # Collaorators:
 Oishee Hoque: bintu3003@gmail.com  
