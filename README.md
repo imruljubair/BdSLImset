@@ -1,4 +1,4 @@
-# BdSLImset: *B*angla*d*eshi *S*ign *L*anguage *Im*age Data*set*
+# *BdSLImset*: *B*angla*d*eshi *S*ign *L*anguage *Im*age Data*set*
 The dataset contains images of different Bangladeshi sign letters. It is still on prgress. Feel free to use for projects.
 Please cite if you use this dataset for any research work.
 
