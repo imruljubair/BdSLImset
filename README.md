@@ -2,15 +2,16 @@
 The dataset contains images of different Bangladeshi sign letters. It is still on prgress. Feel free to use for projects.
 Please cite if you use this dataset for any research work:
 
-@misc{1811.12813,
-Author = {Oishee Bintey Hoque and Mohammad Imrul Jubair and Md. Saiful Islam and Al-Farabi Akash and Alvin Sachie Paulson},
-Title = {Real Time Bangladeshi Sign Language Detection using Faster R-CNN},
-Year = {2018},
-Eprint = {arXiv:1811.12813},
+@misc{1811.12813,  
+Author = {Oishee Bintey Hoque and Mohammad Imrul Jubair and Md. Saiful Islam and Al-Farabi Akash and Alvin Sachie Paulson},  
+Title = {Real Time Bangladeshi Sign Language Detection using Faster R-CNN},  
+Year = {2018},  
+Eprint = {arXiv:1811.12813},  
 }
 
-# Current Project:
-We are working on a project - "Real Time Bangladeshi Sign Language Detection" - using this dataset (2018).
+# Paper:
+Real Time Bangladeshi Sign Language Detection using Faster R-CNN  
+https://arxiv.org/abs/1811.12813
 
 # Other Collaborators:
 Oishee Hoque: bintu3003@gmail.com  
