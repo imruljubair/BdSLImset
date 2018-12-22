@@ -9,6 +9,8 @@ Year = {2018},
 Eprint = {arXiv:1811.12813},  
 }
 
+(This dataset is still in progress. For accessing the latest version with more classes and samples, please contact at mohammadimrul.jubair@ucalgary.ca)
+
 # Paper:
 Real Time Bangladeshi Sign Language Detection using Faster R-CNN  
 https://arxiv.org/abs/1811.12813
