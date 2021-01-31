@@ -16,6 +16,9 @@ We published the complete version of this dataset at ACCV2020:
 "BdSL36: A Dataset for Bangladeshi Sign Letters Recognition"
 [https://openaccess.thecvf.com/content/ACCV2020W/MLCSA/html/Hoque_BdSL36_A_Dataset_for_Bangladeshi_Sign_Letters_Recognition_ACCVW_2020_paper.html]
 
+# Project Page:
+https://imruljubair.github.io/project/project-page.html#bdsl
+
 (For any question, please contact at mohammadimrul.jubair@ucalgary.ca)
 
 # Other Collaborators:
