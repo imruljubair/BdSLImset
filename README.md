@@ -12,7 +12,7 @@ Year = {2018},
 Eprint = {arXiv:1811.12813},  
 }
 
-We published the complete version of this dataset at ACCV2020:
+# We published the complete version of this dataset at ACCV2020:
 "BdSL36: A Dataset for Bangladeshi Sign Letters Recognition"
 [https://openaccess.thecvf.com/content/ACCV2020W/MLCSA/html/Hoque_BdSL36_A_Dataset_for_Bangladeshi_Sign_Letters_Recognition_ACCVW_2020_paper.html]
 
