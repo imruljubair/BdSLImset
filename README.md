@@ -2,7 +2,7 @@
 The dataset contains images of different Bangladeshi sign letters. It is still on prgress. Feel free to use for projects.
 Please cite if you use this dataset for any research work:
 
-"Real Time Bangladeshi Sign Language Detection using Faster R-CNN"
+*Paper:* "Real Time Bangladeshi Sign Language Detection using Faster R-CNN"
 [https://arxiv.org/abs/1811.12813]
 
 @misc{1811.12813,  
@@ -13,7 +13,7 @@ Eprint = {arXiv:1811.12813},
 }
 
 # We published the complete version of this dataset at ACCV2020:
-"BdSL36: A Dataset for Bangladeshi Sign Letters Recognition"
+*Paper:* "BdSL36: A Dataset for Bangladeshi Sign Letters Recognition"
 [https://openaccess.thecvf.com/content/ACCV2020W/MLCSA/html/Hoque_BdSL36_A_Dataset_for_Bangladeshi_Sign_Letters_Recognition_ACCVW_2020_paper.html]
 
 # Project Page:
